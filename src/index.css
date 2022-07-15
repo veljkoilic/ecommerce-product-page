@@ -9,7 +9,7 @@
   --dark-grayish-blue: hsl(219, 9%, 45%);
   --grayish-blue: hsl(220, 14%, 75%);
   --light-grayish-blue: hsl(223, 64%, 98%);
-  --lightbox-: rgba(0, 0, 0, 0.75);
+  --lightbox: rgba(0, 0, 0, 0.75);
 }
 
 body {
